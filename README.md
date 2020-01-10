@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This repo is archived, because it can be installed from PyPi.
+
 # ox3apiclient
 
 A small class to help connect to the OpenX Enterprise API. While it uses [oauth2](https://github.com/simplegeo/python-oauth2),
